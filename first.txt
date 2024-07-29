@@ -3,3 +3,4 @@
 3     git add
 4	git commit
 5  git remove 
+6  git satus
